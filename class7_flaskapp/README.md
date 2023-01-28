@@ -85,3 +85,12 @@ if __name__ == '__main__':
 </body>
 </html>
 ```
+
+### Optional work (Deploy application on Heroku)
+* Create your Heroku account
+* create **Procfile**
+* create app on heroku and follow instruction
+    * download and install **herokucli**
+    * `heroku login`
+    * `git init`
+    * heroku git:remote -a <herokuAppname>
