@@ -16,3 +16,9 @@ https://drive.google.com/file/d/1MCcZFeIgcmp4CweUvKm2556lX_uJtlhv/view?usp=drive
 
 Class 6 recording Sun 22nd Jan 23:
 https://drive.google.com/file/d/1mXCChxO5iV_s-ny46oUkCMdNgnzlP6e5/view?usp=drivesdk
+
+Class 7 Recording: Sat 28th Jan 23:
+https://drive.google.com/file/d/1aLMqm6TYiQEZrCKiRf-qd1r3hRnTWhMH/view?usp=sharing
+
+Class 8 Recording Sun 29th Jan 23:
+https://drive.google.com/file/d/1GQk2ocwZEHNN7DMGzJCDk3hVFNAOXTuc/view?usp=sharing
